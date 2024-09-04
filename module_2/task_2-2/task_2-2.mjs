@@ -4,7 +4,8 @@ initPrintOut(document.getElementById("txtOut"));
 
 printOut("--- Part 1 ----------------------------------------------------------------------------------------------");
 /* Put your code below here!*/
-printOut("Replace this with you answer!");
+const x = 2 + 3 * 2 - 4 * 6;
+printOut("2 + 3 * 2 - 4 * 6 = " + x.toString());
 printOut(newLine);
 
 printOut("--- Part 2 ----------------------------------------------------------------------------------------------");
